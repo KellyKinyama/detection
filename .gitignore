@@ -1,1 +1,5 @@
 /__pycache__
+/output_images
+/data
+/face_recognition_index.faiss
+/known_faces_embeddings.pkl
