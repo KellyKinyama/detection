@@ -3,3 +3,4 @@
 /data
 /face_recognition_index.faiss
 /known_faces_embeddings.pkl
+/face_names.pkl
